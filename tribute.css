@@ -1,0 +1,74 @@
+body{
+position: relative;
+background: #CEC0C0;
+
+}
+
+main{
+    position: relative;
+    background: #F4EDED;
+    margin: 50px 450px 50px 450px ;
+    padding:55px;
+    border-radius: 10px;
+    }
+
+/* Section one edit */
+.nameCard h1,h2,h3{
+    text-align: center;
+}
+
+.nameCard h1{
+    font-size:70px;
+}
+
+.nameCard h2,h3{
+    font-size:30px;
+    font-weight: 300;
+    opacity: 0.8;
+}
+
+
+.nameCard p{
+    text-align: left;
+    padding:25px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    
+    font-size:18px;
+}
+
+
+
+/* section2 edit */
+.photoCard div{
+    margin-top: 20px;    
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    
+
+
+}
+img{
+    border-radius: 50%;
+}
+
+.photoCard p{
+    background:#B3B3B3;
+    margin: 5px 5px 5px 5px;
+    padding:15px;
+    font-size:18px;
+
+}
+
+/* setion3 edit */
+
+.aboutList h3{
+    text-align: left;
+}
+
+/* footer edit */
+
+footer{
+    text-align: center;
+}
